@@ -1,0 +1,32 @@
+body{
+    background-image: url('background.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-color: black;
+}
+h1{
+    margin:auto;
+    padding-top: 10%;
+    font-family:Impact;
+    width: fit-content;
+    font-size: 100px;
+    
+}
+
+p{
+    text-align: center;
+    font-family: impact;
+    font-size: 50px;
+    background-color: white;
+    background-size: 10px;
+    width: fit-content;
+    margin: auto;
+    
+}
+span h1{
+    background-color:white;
+    border: 10px;
+    padding:0;
+
+}
